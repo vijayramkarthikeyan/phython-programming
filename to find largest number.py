@@ -1,9 +1,10 @@
-for z in range(0,3):
-  if z == 0:
+
+for y in range(0,3):
+  if y == 0:
     x = int(input("\nEnter the num1:"))
-  if z == 1:
-    y = int(input("\nEnter the num2:"))
-  if z == 2:
+  if y == 1:
+    v = int(input("\nEnter the num2:"))
+  if y == 2:
     w = int(input("\nEnter the num3:"))
     
     
