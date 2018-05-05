@@ -1,0 +1,5 @@
+sh = int(input("Enter the value:"))
+if sh%2 == 0:
+	print "\nEven"
+if sh%2 != 0:
+	print "\nOdd"
