@@ -1,13 +1,7 @@
-a=int(input("input number"))
-if a>0:
-	
-            print "Positive"
-if a<0:
-	
-	
-            print  "Negative"
-if a==0:
-	
-
-	print "Zero"
-		
+v = int(input("Enter the number:"))
+if v>0:
+  print "\nPositive"
+if v<0:
+  print "\nNegative"
+if v==0:
+  print "\nZero"
