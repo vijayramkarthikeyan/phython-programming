@@ -1,0 +1,5 @@
+vr = int(input("Enter the value:"))
+if vr%2 == 0:
+	print "\nEven"
+if vr%2 != 0:
+	print "\nOdd"
