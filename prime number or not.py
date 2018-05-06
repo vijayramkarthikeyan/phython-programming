@@ -1,11 +1,10 @@
-num = int(input())
+vr = int(input())
 
-if num > 1:
+if vr > 1:
    
    for i in range(2, num):
-       if (num % i) == 0:
+       if (vr % i) == 0:
            print "no"
            break
    else:
        print "yes"
-       
